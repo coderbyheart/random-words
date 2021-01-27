@@ -1,3 +1,6 @@
+> **:truck: moved to https://github.com/NordicSemiconductor/random-words-js**  
+> :information_source: [more info](https://github.com/bifravst/bifravst/issues/56)
+
 # Generate random 8 letter words [![npm version](https://img.shields.io/npm/v/@bifravst/random-words.svg)](https://www.npmjs.com/package/@bifravst/random-words)
 
 [![GitHub Actions](https://github.com/bifravst/random-words/workflows/Test%20and%20Release/badge.svg)](https://github.com/bifravst/random-words/actions)
